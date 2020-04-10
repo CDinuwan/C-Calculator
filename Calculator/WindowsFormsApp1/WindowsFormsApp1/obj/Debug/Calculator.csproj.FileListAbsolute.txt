@@ -1,0 +1,10 @@
+C:\Users\hecdi\Desktop\Creating C# Calculator\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\hecdi\Desktop\Creating C# Calculator\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\hecdi\Desktop\Creating C# Calculator\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\hecdi\Desktop\Creating C# Calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\hecdi\Desktop\Creating C# Calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\hecdi\Desktop\Creating C# Calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hecdi\Desktop\Creating C# Calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\hecdi\Desktop\Creating C# Calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\hecdi\Desktop\Creating C# Calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\hecdi\Desktop\Creating C# Calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
